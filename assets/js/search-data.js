@@ -429,16 +429,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-join-bjtu-as-an-associate-professor",
+          title: 'I join BJTU as an Associate Professor.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-is-accepted-by-ijcai-2024",
+          title: 'One paper is accepted by IJCAI 2024.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-four-papers-are-accepted-by-aaai-2025-oral-presentation-4-6-congrates-to-manyi-chuangchuang-and-other-co-authors",
+          title: 'Four papers are accepted by AAAI 2025 (oral presentation, 4.6%). Congrates to Manyi,...',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-cvpr-2025-congrates-to-haoyu-yuzhe-hairong-and-other-co-authors",
+          title: 'One paper is accepted by CVPR 2025. Congrates to Haoyu, Yuzhe, Hairong and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
