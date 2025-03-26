@@ -6,23 +6,24 @@ description: members of the lab or group
 nav: true
 nav_order: 7
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: pengchuang.jpg
-    content: about_pengchuang.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+groups: [postgraduate, undergraduate] # support, admin,
+postgraduate:
+  title: Postgraduates
+  people:
+    - name: Chuang Peng
+      description: (2024-)
+      website: https://yukimasano.github.io/
+      picture: pengchuang.jpg
+    - name: Zhiqiang Yang
+      description: (2024-)
+      website: https://scholar.google.com/citations?user=jFT8a1YAAAAJ&hl=en
+      picture: yangzhiqiang.jpeg
+undergraduate:
+  title: Undergraduates
+  people:
+    - name: Yuzhe Guo
+      description: (2024-)
+      website: https://scholar.google.com/citations?user=lHkGZWUAAAAJ&hl=en
+      picture: guoyuzhe.jpeg
+
 ---
