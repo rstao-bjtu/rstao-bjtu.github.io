@@ -30,20 +30,16 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-          {% if entry.preview endswith '.pdf' %}
-            <embed src="{{ entry_path }}" type="application/pdf" width="100%" height="600px" />
-          {% else %}
-            {%
-              include figure.liquid
-              loading="eager"
-              path=entry_path
-              sizes = "200px"
-              class="preview z-depth-1 rounded"
-              zoomable=true
-              avoid_scaling=true
-              alt=entry.preview
-            %}
-          {% endif %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path=entry_path
+            sizes = "200px"
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            avoid_scaling=true
+            alt=entry.preview
+          %}
         {% endif %}
       {% endif %}
     </div>
