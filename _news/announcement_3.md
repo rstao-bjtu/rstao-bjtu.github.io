@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-27 07:59:00-0400
+date: 2024-04-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper is accepted by <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>. Congrates to Haoyu, Yuzhe, Hairong and other co-authors!
+One paper is accepted by <a href="https://ijcai24.org/">IJCAI 2024</a>.
