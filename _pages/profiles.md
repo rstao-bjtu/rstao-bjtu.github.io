@@ -15,8 +15,8 @@ nav_order: 3
       <center>
         <img src="../assets/img/people_imgs/tanchuangchuang.jpg" width=180 />
         <br/>
-        <font color="AAAAAA"><a href="https://chuangchuangtan.github.io/">Chuangchuang Tan</a> (co-supervised)</font>
-        <br/>(2021~)<br/>
+        <font color="AAAAAA"><a href="https://chuangchuangtan.github.io/">Chuangchuang Tan</a></font>
+        <br/>(co-supervised)<br/>(2021~)
       </center>
     </td>
   </tr>
@@ -157,7 +157,7 @@ nav_order: 3
     </td>
         <td  width="255" align="center">
       <center>
-        <img src="../assets/img/people_imgs/liruitao.jpg" width=180 />
+        <img src="../assets/img/people_imgs/liruitao.png" width=180 />
         <br/>
         <font>Ruitao Li</font><br/>
         (2024~)
