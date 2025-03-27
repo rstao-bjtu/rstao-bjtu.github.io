@@ -96,7 +96,7 @@ nav_order: 3
   <tr>
     <td  width="255" align="center">
       <center>
-        <img src="../assets/img/people_imgs/limanyi.jpg" width=180 />
+        <img src="../assets/img/people_imgs/limanyi.png" width=180 />
         <br/>
         <font>Manyi Li</font><br/> 
          (2024~)
