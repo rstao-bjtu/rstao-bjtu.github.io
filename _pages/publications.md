@@ -5,6 +5,7 @@ title: Publications
 description: †Equal Contribution, *Corresponding Author
 years: [2025, 2023, 2022, 2021, 2020]
 nav: true
+nav_order: 1
 ---
 
 <div class="publications">
