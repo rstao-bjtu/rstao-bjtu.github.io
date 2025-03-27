@@ -52,7 +52,7 @@ nav_order: 3
     </td>
     <td  width="255" align="center">
       <center>
-        <img src="../assets/img/people_imgs/yaoshibo.jpg" width=180 />
+        <img src="../assets/img/people_imgs/yaoshibo.png" width=180 />
         <br/>
         <font>Shibo Yao</font><br/>
         (2024~)
