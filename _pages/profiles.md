@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: Our Team
 nav: true
 nav_order: 3
 ---
@@ -16,7 +15,7 @@ nav_order: 3
       <center>
         <img src="../assets/img/people_imgs/tanchuangchuang.jpg" width=180 />
         <br/>
-        <font>Chuangchuang Tan (co-supervised, CCF-A*6)</font><br/>
+        <font>Chuangchuang Tan (co-supervised)</font><br/>
                 2021
       </center>
     </td>
