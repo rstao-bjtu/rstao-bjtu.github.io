@@ -16,7 +16,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/tanchuangchuang.jpg" width=180 />
         <br/>
         <font color="AAAAAA"><a href="https://chuangchuangtan.github.io/">Chuangchuang Tan</a></font>
-        <br/>(co-supervised)<br/>(2021~)
+        <br/>(co-supervised, 2021~)
       </center>
     </td>
   </tr>
