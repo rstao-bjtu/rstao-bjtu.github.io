@@ -16,7 +16,7 @@ nav_order: 3
       <center>
         <img src="../assets/img/people_imgs/tanchuangchuang.jpg" width=180 />
         <br/>
-        <font>Chuangchuang Tan (co-supervised)</font><br/>
+        <font>Chuangchuang Tan (co-supervised, CCF-A*6)</font><br/>
                 2021
       </center>
     </td>
