@@ -181,7 +181,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/yanhao.jpg" width=180 />
         <br/>
         <font>Hao Yan</font><br/>
-        (2024~)
+        2024~<br/>去向: 北京理工大学
       </center>
     </td>
   </tr>
