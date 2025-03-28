@@ -99,7 +99,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/guoyuzhe.jpg" width=180 />
         <br/>
         <font>Yuzhe Guo</font><br/>
-        2024~<br/>CVPR录用，NN在投
+        2024~<br/>CVPR录用，NN在投<br/>ICPC国际大学生程序设计竞赛全球总决赛第7名
       </center>
     </td>
         <td  width="255" align="center">
@@ -107,7 +107,8 @@ nav_order: 3
         <img src="../assets/img/people_imgs/limanyi.png" width=180 />
         <br/>
         <font>Manyi Li</font><br/> 
-        2024~<br/>AAAI录用，TIFS在投
+        2024~<br/>AAAI录用，TIFS在投<br/>
+        毕设：社交媒体场景下的伪造图像检测任务研究<br/>去向：中科院自动化所
       </center>
     </td>
     <td  width="255" align="center">
@@ -144,7 +145,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/tangshijie.jpg" width=180 />
         <br/>
         <font>Shijie Tang</font><br/>
-        2024~<br/>SCIS在投
+        2024~，SCIS在投<br/>毕设：面向模型后处理的后门攻击研究
       </center>
     </td>
     <td  width="255" align="center">
