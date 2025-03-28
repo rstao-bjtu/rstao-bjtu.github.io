@@ -164,5 +164,26 @@ nav_order: 3
       </center>
     </td>
   </tr>
-</table> 
+</table>
+
+<table  rules="none">
+  <tr>
+    <td  width="255" align="center">
+      <center>
+        <img src="../assets/img/people_imgs/zhangjunyu.jpg" width=180 />
+        <br/>
+        <font>Junyu Zhang</font><br/> 
+         (2024~)
+      </center>
+    </td>
+    <td  width="255" align="center">
+      <center>
+        <img src="../assets/img/people_imgs/yanhao.jpg" width=180 />
+        <br/>
+        <font>Hao Yan</font><br/>
+        (2024~)
+      </center>
+    </td>
+  </tr>
+</table>  
 <br>
