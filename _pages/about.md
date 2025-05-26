@@ -16,12 +16,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 4 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am an Associate Professor at the [School of Computer Science and Technology](https://cs.bjtu.edu.cn), [BJTU](https://www.bjtu.edu.cn), working in collaboration with Prof. [Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=zh-CN) (IEEE Fellow). I received my B.S. and Ph.D. degrees from [BUAA](https://www.buaa.edu.cn/) in 2017 and 2022, respectively, under the supervision of Prof. Wei Li (Academician of Chinese Academy of Sciences) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Previously, I was a Senior Researcher at Noah’s Ark Lab, Huawei, collaborating with Dr. [Yunhe Wang](https://scholar.google.com.hk/citations?user=isizOkYAAAAJ&hl=zh-CN).
