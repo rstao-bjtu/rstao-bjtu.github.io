@@ -6,23 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-
-
-## PhD Students
-<table  rules="none">
-  <tr>
-  <td  width="255" align="center">
-      <center>
-        <img src="../assets/img/people_imgs/tanchuangchuang.jpg" width=180 />
-        <br/>
-        <font color="AAAAAA"><a href="https://chuangchuangtan.github.io/">Chuangchuang Tan</a></font>
-        <br/>co-supervised, 2021~<br/>6*(CCF-A/Trans)，国家奖学金
-      </center>
-    </td>
-  </tr>
-</table>
-
-
 ## MSc Students
 <table  rules="none">
   <tr>
@@ -76,7 +59,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/yangjian.jpg" width=180 />
         <br/>
         <font>Jian Yang</font><br/>
-        2025~<br/>2*ICCV在投
+        2025~<br/>
       </center>
     </td>
     <td  width="255" align="center">
@@ -84,7 +67,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/liuhao.jpg" width=180 />
         <br/>
         <font>Hao Liu</font><br/>
-        2025~<br/>ICCV在投
+        2025~<br/>
       </center>
     </td>
   </tr>
@@ -124,7 +107,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/qinziheng.jpg" width=180 />
         <br/>
         <font>Ziheng Qin</font><br/>
-        2024~<br/>IJCAI在投
+        2024~<br/>IJCAI录用
       </center>
     </td>
   </tr>
@@ -137,7 +120,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/zhangpengfei.jpg" width=180 />
         <br/>
         <font>Pengfei Zhang</font><br/> 
-        2024~，ICCV在投<br/>大创：基于行为后门的模型版权保护方法研究
+        2024~，ICCV在投<br/>大创：基于行为后门的模型版权保护方法研究（市级结题，18/151）
       </center>
     </td>
     <td  width="255" align="center">
@@ -145,7 +128,7 @@ nav_order: 3
         <img src="../assets/img/people_imgs/tangshijie.jpg" width=180 />
         <br/>
         <font>Shijie Tang</font><br/>
-        2024~，SCIS在投<br/>毕设：面向模型后处理的后门攻击研究
+        2024~，SCIS录用<br/>毕设：面向模型后处理的后门攻击研究
       </center>
     </td>
     <td  width="255" align="center">
