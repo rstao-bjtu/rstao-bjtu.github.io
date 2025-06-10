@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: rstao@bjtu.edu.cn
+subtitle: 陶仁帅，rstao@bjtu.edu.cn
 
 profile:
   align: left
@@ -28,4 +28,4 @@ I am an Associate Professor at the [School of Computer Science and Technology](h
 
 My research focuses on two major directions: AI Robustness and Forensics. The first direction addresses AI safety and security, with an emphasis on DeepFake detection and open-world learning. In this context, I explore techniques such as open-set learning, domain adaptation, and few-shot learning to enhance machine learning models' adaptability to real-world scenarios. The second direction centers on model privacy protection, including copyright preservation through mechanisms like backdoor attacks. In addition, I work on evaluation benchmarking, developing rigorous assessment frameworks for critical yet underexplored challenges to foster progress and innovation in the field.
 
-[Prospective students] Our group (BJTU) has positions for PhD students, Master students, and visiting students. If you are interested, please feel free to send me an email with your CV and publications (if any).
+[**Prospective students**] Our group (BJTU) has positions for PhD students, Master students, and visiting students. If you are interested, please feel free to send me an email with your CV and publications (if any).
