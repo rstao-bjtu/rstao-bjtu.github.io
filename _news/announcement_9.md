@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as an Area Chair for <a href="https://iclr.cc/">ICLR</a>.
+I am serving as an Area Chair for <a href="https://iclr.cc/">ICLR 2026</a>.
