@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: no
+title: Gathering
+nav: yes
 nav_order: 5
 pagination:
   enabled: true
