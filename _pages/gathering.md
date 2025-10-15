@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Statement/
+permalink: /Gathering/
 title: Gathering
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
