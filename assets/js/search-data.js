@@ -32,10 +32,17 @@ ninja.data = [{
           },
         },{id: "nav-gathering",
           title: "Gathering",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-gathering",
+          title: "Gathering",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Statement/";
+            window.location.href = "/Gathering/";
           },
         },{id: "post-a-post-with-image-galleries",
         
