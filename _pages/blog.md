@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: Gathering
-nav: yes
+nav: no
 nav_order: 5
 pagination:
   enabled: true
