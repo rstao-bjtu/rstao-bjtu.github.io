@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-gathering",
           title: "Gathering",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "本页记录团队的日常团建活动.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Gathering/";
