@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Gathering/
-title: Gathering
+title: 团建
 description: 本页记录团队的日常团建活动.
 nav: true
 nav_order: 6
