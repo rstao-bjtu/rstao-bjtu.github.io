@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 简介
 permalink: /
 subtitle: 陶仁帅，rstao@bjtu.edu.cn
 

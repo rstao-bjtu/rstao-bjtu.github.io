@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: RST-Lab
+title: 团队成员
 nav: true
 nav_order: 3
 ---
