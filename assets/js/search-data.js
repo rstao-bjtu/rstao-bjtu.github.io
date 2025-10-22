@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Statement/";
           },
-        },{id: "nav-gathering",
-          title: "Gathering",
+        },{id: "nav-团建",
+          title: "团建",
           description: "本页记录团队的日常团建活动.",
           section: "Navigation",
           handler: () => {
