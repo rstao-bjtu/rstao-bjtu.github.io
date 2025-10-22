@@ -3,35 +3,35 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-简介",
+    title: "简介",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-发表论文",
+          title: "发表论文",
           description: "†Equal Contribution, *Corresponding Author",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-rst-lab",
-          title: "RST-Lab",
+        },{id: "nav-团队成员",
+          title: "团队成员",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-statement",
-          title: "Statement",
+        },{id: "nav-日常思考",
+          title: "日常思考",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Statement/";
           },
-        },{id: "nav-团建",
-          title: "团建",
+        },{id: "nav-团队活动",
+          title: "团队活动",
           description: "本页记录团队的日常团建活动.",
           section: "Navigation",
           handler: () => {
