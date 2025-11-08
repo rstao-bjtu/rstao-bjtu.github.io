@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-发表论文",
           title: "发表论文",
-          description: "†Equal Contribution, *Corresponding Author",
+          description: "†Corresponding Author, *Equal Contribution",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
