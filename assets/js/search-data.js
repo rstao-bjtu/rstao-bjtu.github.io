@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Statement/";
           },
+        },{id: "nav-报考须知",
+          title: "报考须知",
+          description: "报考研究生前需要了解的一些情况",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Statement-2/";
+          },
         },{id: "nav-团队活动",
           title: "团队活动",
           description: "本页记录团队的日常团建活动.",
