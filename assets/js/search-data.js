@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-日常思考",
           title: "日常思考",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Statement/";
