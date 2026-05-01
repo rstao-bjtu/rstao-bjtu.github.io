@@ -2,7 +2,7 @@
 layout: page
 permalink: /Statement/
 title: 日常思考
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
