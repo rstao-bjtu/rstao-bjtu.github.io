@@ -2,6 +2,7 @@
 layout: profiles
 permalink: /people/
 title: 团队成员
+description: 由于团队人员越来越多，没有足够的精力来实时更新本页面，当前成员列表可以从学校官网查询。
 nav: true
 nav_order: 3
 ---
