@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-团队成员",
           title: "团队成员",
-          description: "",
+          description: "由于团队人员越来越多，没有足够的精力来实时更新本页面，当前成员列表可以从学校官网查询。",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
